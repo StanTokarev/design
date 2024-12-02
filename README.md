@@ -1,2 +1,2 @@
 # "Техники тест-дизайна"
-#### [Тестирование формы регистрации](https://docs.google.com/spreadsheets/d/1ziYL0xkt-QGWJ6Y73tenqoLCykeg0tgKQYwjLMyLVlU/edit?usp=sharing)
+#### [Тестирование формы регистрации](https://docs.google.com/spreadsheets/d/1NqTPqdt5CuW0eHEPKzbkAu50Lk5nsCTENXDyp_-0IKQ/edit?usp=sharing)
